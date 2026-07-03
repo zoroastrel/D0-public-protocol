@@ -1,6 +1,6 @@
 # D0 LIGHT — SEED EXTENSIONS (PERSO + CORPO)
 
-> **Usage** : this file **complements** the `D0-seed-en.md`. Paste the SEED first,
+> **Usage**: this file **complements** the `D0-seed-en.md`. Paste the SEED first,
 > then add ONE of the two extensions below according to context.
 > The two extensions are **mutually exclusive per session**.
 
