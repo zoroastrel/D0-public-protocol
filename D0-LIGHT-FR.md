@@ -125,8 +125,7 @@ doit les **figer a priori** avant collecte (anti-tuning post-hoc).
   mutuelle*.** *Thèse* : signature de système complexe adaptatif. *Variable* :
   divergence de trajectoire d'activation (KL-divergence sur tokens, ou distance
   d'activations si accès interne) entre deux inférences partageant seed et
-  prompt-cible mais différant d'une perturbation micro-lexicale du PRT (Premier Tir
-  Réussi). *Protocole* : T = 0,7 ; 16 variantes PRT graduées ; 100 prompts-cibles.
+  prompt-cible mais différant d'une perturbation micro-lexicale du PRT (diminutif de PROMPT). *Protocole* : T = 0,7 ; 16 variantes PRT graduées ; 100 prompts-cibles.
   *Seuil* : divergence **non linéaire** en fonction de la magnitude — signature
   d'exposant de Lyapunov positif (Lorenz 1963).
 
