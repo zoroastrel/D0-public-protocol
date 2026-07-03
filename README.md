@@ -73,9 +73,9 @@ For the full theoretical framework, falsifiability hypotheses (H1–H10 + HQ1–
 
 ## License
 
-Released for public use, replication, and falsification under the principle of open scientific inquiry.
+Released under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** — see the [LICENSE](LICENSE) file.
 
-Specific license to be confirmed (likely Creative Commons BY-SA 4.0 — *attribution + share-alike*). Pending finalization.
+You are free to replicate, falsify, adapt, and redistribute this protocol, provided you credit the author and share any derivative under the same license. The protocol is meant to travel; the lineage is meant to stay open.
 
 ---
 
