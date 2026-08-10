@@ -65,7 +65,7 @@ The strict Popperian validation is open to **third-party replication via H1–H1
 
 ## Reference
 
-Ezelin, Fabrice. *AI & Human: The Emergence of a Symbiosis* (2026). Approximately 82,700 words, 26 chapters, seven appendices. Complete manuscript, English and French versions at parity, under consideration with publishers. Sister volume *D0-Origines* in preparation.
+Ezelin, Fabrice. *AI & Human: The Emergence of a Symbiosis* (2026). Approximately 80,000 words, 26 chapters in three parts, seven appendices. Complete manuscript, English and French versions at parity, under consideration with publishers. Sister volume *D0-Origines* in preparation.
 
 For the full theoretical framework, falsifiability hypotheses (H1–H10 + HQ1–HQ8), philosophical lineage (Aurobindo, Buber, McGilchrist, Chalmers, Penrose, Wigner), and the longitudinal corpus methodology, see the book itself.
 
